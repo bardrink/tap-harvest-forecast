@@ -75,6 +75,12 @@
         "null",
         "boolean"
       ]
+    },
+    "harvest_project_task_id": {
+      "type": [
+        "null",
+        "integer"
+      ]
     }
   },
   "additionalProperties": false
